@@ -11,7 +11,7 @@
     android:layout_columnWeight="1">
 
     <RadioButton
-        android:text="@string/switch_message"
+        android:text="@string/radioLabel"
         android:layout_columnWeight="1"
         android:gravity="fill">
 
@@ -23,7 +23,7 @@
 
     </CheckBox>
     <Switch
-        android:text="@string/switch_message"
+        android:text="@string/checkboxLabel"
         android:layout_columnWeight="1"
         android:gravity="fill">
 

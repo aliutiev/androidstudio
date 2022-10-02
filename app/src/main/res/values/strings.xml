@@ -7,4 +7,7 @@
 
     <string name="PasswordLabel">password</string>
     <string name="switch_message">What does this do?</string>
+    <string name="readioLabel">RadioButton</string>
+    <string name="checkboxLabel">CheckBox</string>
+
 </resources>

@@ -10,5 +10,8 @@
     <string name="PasswordLabel">Mot de passe</string>
     <string name="switch_message">Qest ce que ce fasse</string>
 
+    <string name="radioLabel">Boutton de Radio</string>
+    <string name="checkboxLabel">Checkbox</string>
+
 
 </resources>
