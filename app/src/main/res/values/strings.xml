@@ -7,7 +7,12 @@
 
     <string name="PasswordLabel">password</string>
     <string name="switch_message">What does this do?</string>
-    <string name="readioLabel">RadioButton</string>
-    <string name="checkboxLabel">CheckBox</string>
+    <string name="radioLabel">RadioButton</string>
+    <string name="checkbox_message">CheckBox</string>
+    <string name="dialog_message">Would you like to finish the activity?</string>
+    <string name="dialog_title">List Items Activity</string>
+
+    <string name="ok_message">Yes</string>
+    <string name="cancel_message">No</string>
 
 </resources>

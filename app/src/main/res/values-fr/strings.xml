@@ -11,7 +11,13 @@
     <string name="switch_message">Qest ce que ce fasse</string>
 
     <string name="radioLabel">Boutton de Radio</string>
-    <string name="checkboxLabel">Checkbox</string>
+    <string name="checkbox_message">Checkbox</string>
+
+    <string name="dialog_message">message de dialogue</string>
+    <string name="dialog_title">message du titre</string>
+
+    <string name="ok_message">OK</string>
+    <string name="cancel_message">Cancel</string>
 
 
 </resources>

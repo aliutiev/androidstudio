@@ -21,6 +21,7 @@
         android:layout_height="wrap_content"
         android:text="@string/ButtonText"
         tools:layout_editor_absoluteX="150dp"
-        tools:layout_editor_absoluteY="375dp" />
+        tools:layout_editor_absoluteY="375dp"
+        android:onClick="nextActivity"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
