@@ -19,5 +19,10 @@
     <string name="ok_message">OK</string>
     <string name="cancel_message">Cancel</string>
 
+    <string name="chatButton">Commencer chat</string>
+    <string name="send_message">Envoyer message</string>
+
+
+
 
 </resources>

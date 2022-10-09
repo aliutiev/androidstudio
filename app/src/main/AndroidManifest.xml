@@ -2,7 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
-    <uses-feature android:name="android.hardware.camera"
+    <uses-feature
+        android:name="android.hardware.camera"
         android:required="true" />
 
     <application
@@ -16,16 +17,24 @@
         android:theme="@style/Theme.AndroidAssignments"
         tools:targetApi="31">
         <activity
-            android:name=".ListItemsActivity"
-            android:exported="false">
+            android:name=".ChatWindow"
+            android:exported="false"
+            android:parentActivityName=".MainActivity">
             <meta-data
-                android:name="android.app.lib_name"
+                android:parentActivityName=".MainActivity"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".ListItemsActivity"
+            android:exported="false"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.MainActivity"
                 android:value="" />
         </activity>
         <activity
             android:name=".LoginActivity"
             android:exported="true">
-
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -39,8 +48,6 @@
         <activity
             android:name=".MainActivity"
             android:exported="false">
-
-
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />

@@ -15,4 +15,9 @@
     <string name="ok_message">Yes</string>
     <string name="cancel_message">No</string>
 
+    <string name="chatButton">Start Chat</string>
+
+    <string name="send_message">Start Chat</string>
+
+
 </resources>
