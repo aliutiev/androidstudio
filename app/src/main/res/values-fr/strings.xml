@@ -22,6 +22,19 @@
     <string name="chatButton">Commencer chat</string>
     <string name="send_message">Envoyer message</string>
 
+    <string name="title_activity_test_toolbar">Test Toolbar</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Premier Fragment</string>
+    <string name="second_fragment_label">Deuxieme Fragment</string>
+    <string name="next">Prochaine</string>
+    <string name="previous">En Premier</string>
+
+    <string name="hello_first_fragment">Bonjour premier fragment</string>
+    <string name="hello_second_fragment">Bonjour premier fragment. Arg: %1$s</string>
+    <string name="goBack">arrive sortie</string>
+    <string name="ok">lk</string>
+    <string name="cancel">cancel</string>
+
 
 
 
