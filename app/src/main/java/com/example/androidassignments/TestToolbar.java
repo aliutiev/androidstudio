@@ -84,7 +84,7 @@ public class TestToolbar extends AppCompatActivity {
                 Log.d("Toolbar", "Option 3 selected");
                 break;
             case R.id.option4:
-                Toast.makeText(this, "Version 1.0, by Thenura Jayasinghe", Toast.LENGTH_LONG).show();
+                Toast.makeText(this, "Version 1.0, by Andrew Liutiev", Toast.LENGTH_LONG).show();
                 Log.d("Toolbar", "Option 4 selected");
                 break;
         }
